@@ -1,5 +1,5 @@
 # distribution directory (comment these out if you want this versioned in your app)
-dist/html/*
+dist/*.html
 dist/images/*
 dist/scripts/*
 dist/styles/*
