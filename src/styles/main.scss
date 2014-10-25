@@ -1,9 +1,16 @@
+body {
+  font-family: Helvetica, sans-serif;
+  padding: 0.25em;
+}
+
 input[type=text] {
   padding: 0.5em;
-  margin: 1em;
+}
+
+input[type=submit] {
+  margin-left: 1em;
 }
 
 #display {
-  font-family: Helvetica, sans-serif;
-  margin: 1em;
+  margin-top: 1em;
 }
