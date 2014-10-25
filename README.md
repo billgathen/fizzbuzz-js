@@ -10,6 +10,7 @@ Event-based webapp implementing the FizzBuzz Challenge, scaffolded using my [Fro
 ## Installation
 
 - ```git clone https://github.com/billgathen/fizzbuzz-js.git```
+- ```cd fizzbuzz-js```
 - ```npm install``` adds all the dependencies to the ```node_modules``` directory
 - ```gulp watch``` starts the web server
 - Surf to [http://localhost:8080](http://localhost:8080) to see the page.
