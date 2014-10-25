@@ -10,7 +10,7 @@ function calcHandler(e) {
 
 function displayHandler(e) {
   'use strict';
-  var result = e.detail.join(', '),
+  var result = e.detail,
     resultNode = document.createTextNode(result),
     displayNode = qs('#display'),
     oldVal = displayNode.firstChild;

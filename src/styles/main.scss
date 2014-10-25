@@ -5,10 +5,12 @@ body {
 
 input[type=text] {
   padding: 0.5em;
+  margin-left: 0.5em;
 }
 
-input[type=submit] {
-  margin-left: 1em;
+.explanation {
+  border: 1px solid gray;
+  padding: 1em;
 }
 
 #display {

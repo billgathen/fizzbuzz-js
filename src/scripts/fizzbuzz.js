@@ -12,5 +12,5 @@ function fizzbuzzUpTo(max) {
       result.push(i.toString());
     }
   }
-  return result;
+  return result.join(', ');
 }
